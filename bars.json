@@ -378,9 +378,10 @@
   "address": null,
   "addr_conf": null,
   "addr_guess": "66 Market Square",
-  "status": "unknown",
-  "now": null,
-  "note": "Search licence records under its former name, the Trolley Car. 66 Market Square is a reported address, not yet confirmed."
+  "status": "closed",
+  "now": "Operating as Camilla's Cafe, a breakfast spot.",
+  "note": "Search licence records under its former name, the Trolley Car. The address is still recorded as a guess, so the current occupant stands or falls with it.",
+  "now_conf": "high"
  },
  "29": {
   "slug": "burkes-757-lounge",
