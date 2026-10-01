@@ -1,5 +1,7 @@
-# Regenerable from LYNN BARS.PDF via the snippet in README. 47 MB of masters and
-# 28 MB of reading copies do not belong in the repository.
-scans/
-read/
-photos/
+# Anchored with a leading slash on purpose. Unanchored "scans/" also matches
+# docs/assets/scans/, which silently kept every page image out of the build.
+#
+# These are regenerable from LYNN BARS.PDF via the snippet in README.
+/scans/
+/read/
+/photos/
