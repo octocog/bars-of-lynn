@@ -1,42 +1,549 @@
 {
-  "1":  {"slug":"wortmanns","name":"Wortmanns","date":"1986-08-02","pages":[3],"address":null,"addr_conf":null,"status":"unknown","now":null,"note":null},
-  "2":  {"slug":"bohills","name":"Bohill's","indexed":"Bohill's Irish Pub","date":"1986-08-02","pages":[4],"address":null,"addr_conf":null,"status":"unknown","now":null,"gold_star":true,"note":null},
-  "3":  {"slug":"mister-maxs-pub","name":"Mr. Max's Pub","indexed":"Mister Max's Pub","date":"1986-08-07","pages":[5],"address":null,"addr_conf":null,"status":"unknown","now":null,"note":null},
-  "4":  {"slug":"39-buffum-street","name":"39 Buffum Street","date":"1986-08-07","pages":[7],"address":"39 Buffum St","addr_conf":"high","addr_why":"The bar's name is its address.","status":"closed","now":"Cesar's Palace occupies 39 Buffum St today. The building dates to 1900 and was renovated in 2010.","now_conf":"low"},
-  "5":  {"slug":"coachman-lounge","name":"The Coachman Lounge","date":"1986-08-12","pages":[8],"address":null,"addr_conf":null,"addr_guess":"Possibly near 170 Broad St","status":"closed","now":null,"now_conf":"medium","note":"A corporation called Coachman, Inc. was registered in 1988 at 170 to 170A Broad St and dissolved in 1998. The filing postdates this visit, so the link is inferred."},
-  "6":  {"slug":"blue-note","name":"The Blue Note","date":"1986-08-12","pages":[9],"address":null,"addr_conf":null,"addr_guess":"Possibly 111 Sagamore St","status":"closed","now":null,"now_conf":"medium"},
-  "7":  {"slug":"smugglers-cove","name":"Smuggler's Cove","date":"1986-08-12","pages":[10],"address":"826 Washington St","addr_conf":"medium","addr_why":"Named in a 2018 Daily Item article about the site's redevelopment.","status":"demolished","now":"Demolished in 2018. A condominium building with ground floor commercial space now stands on the site, built under the Washington Street Gateway District plan.","now_conf":"high","note":"The Daily Item says the pub was established in 1986, the same year as this visit. If both are right, they catalogued a bar that had only just opened."},
-  "8":  {"slug":"crystal-grill","name":"The Crystal Grill","date":"1986-08-12","pages":[11],"address":null,"addr_conf":null,"status":"unknown","now":null,"note":null},
-  "9":  {"slug":"maxs-pub","name":"Max's Pub","date":"1986-08-14","pages":[12],"address":null,"addr_conf":null,"addr_guess":"Olympic Square area, near the old WFNX studio at 25 Exchange St","status":"closed","now":null,"now_conf":"medium","note":"A personal recollection online says Max's opened in 1984, that its original owners later founded the Halfway Cafe chain, and that it changed hands before closing. Single source."},
-  "10": {"slug":"corcorans","name":"Corcorans","date":"1986-08-14","pages":[13],"address":null,"addr_conf":null,"status":"unknown","now":null,"note":null},
-  "11": {"slug":"cronins-cafe","name":"Cronin's Cafe","date":"1986-08-14","pages":[14,15],"address":null,"addr_conf":null,"status":"unknown","now":null,"note":null},
-  "12": {"slug":"bull-pen","name":"Bull Pen Restaurant","indexed":"The Bull Pen","date":"1986-08-14","pages":[16],"address":null,"addr_conf":null,"status":"unknown","now":null,"note":"A Bull Pen Sports Bar trades in the area today but dates to about 2010. Name coincidence, not the same business."},
-  "13": {"slug":"side-street","name":"Side Street","indexed":"The Side Street","date":"1986-08-17","pages":[17],"address":null,"addr_conf":null,"addr_guess":"Possibly 33 Spring St","status":"closed","now":null,"now_conf":"low"},
-  "14": {"slug":"tonys-cafe","name":"Tony's Cafe","date":"1986-08-17","pages":[18],"address":null,"addr_conf":null,"addr_guess":"On the street below Rocky's Gym","status":"unknown","now":null,"note":"Not to be confused with Tony's, number 31."},
-  "15": {"slug":"contis-cafe","name":"Conti's Cafe","date":"1986-08-17","pages":[19],"address":null,"addr_conf":null,"addr_guess":"The heart of historic Lynn, in an urban renewal area","status":"unknown","now":null},
-  "16": {"slug":"mels-stateroom","name":"Mel's Stateroom","date":"1986-08-17","pages":[20],"address":null,"addr_conf":null,"addr_guess":"A brisk walk from Conti's Cafe","status":"unknown","now":null},
-  "17": {"slug":"brandy-barrel","name":"The Brandy Barrel","date":"1986-08-19","pages":[21],"address":null,"addr_conf":null,"addr_guess":"Possibly 37 Market St","status":"closed","now":"A Brandy Barrel Pub and Grille traded at 37 Market St until mid 2025. Whether it occupied that address continuously since 1986 is unverified.","now_conf":"low"},
-  "18": {"slug":"scotch-mist","name":"The Scotch Mist","date":"1986-08-19","pages":[22],"address":null,"addr_conf":null,"status":"unknown","now":null},
-  "19": {"slug":"corinthian-club","name":"The Corinthian Club","date":"1986-08-19","pages":[23],"address":null,"addr_conf":null,"addr_guess":"Off the beaten path, near the Lithuanian Club and the bus station","status":"unknown","now":null},
-  "20": {"slug":"klub-kar","name":"The Klub Kar","date":"1986-08-19","pages":[24],"address":null,"addr_conf":null,"addr_guess":"Directly beneath the elevated railway","status":"unknown","now":null},
-  "21": {"slug":"crowleys","name":"Crowley's","date":"1986-08-23","pages":[25],"address":null,"addr_conf":null,"status":"unknown","now":null},
-  "22": {"slug":"shawmut-grille","name":"The Shawmut Grille","indexed":"The Shawmut Grill","date":"1986-08-23","pages":[26],"address":null,"addr_conf":null,"status":"unknown","now":null,"note":"The afterword's line about most of them being frozen, and the Shawmut being petrified, refers to this entry."},
-  "23": {"slug":"players","name":"Player's","date":"1986-08-23","pages":[27],"address":null,"addr_conf":null,"status":"unknown","now":null,"note":"A Players Sports Bar at 858 Western Ave dates to about 2008. Name coincidence."},
-  "24": {"slug":"buchanans","name":"Buchanan's","date":"1986-08-23","pages":[28],"address":"Corner of Eastern Ave and Western Ave","addr_conf":"high","addr_why":"Stated in the entry itself.","status":"possibly open","now":"Buchanan Cafe at 648 Eastern Ave may be the same bar. A customer review describes it as open over fifty years, but no documentary history was found.","now_conf":"low"},
-  "25": {"slug":"golden-circle","name":"The Golden Circle","date":"1986-08-23","pages":[29],"address":"328 Broadway","addr_conf":"medium","addr_why":"Golden Circle, Inc. corporate filings run 1942 to 2005 at this address.","status":"closed","now":"Closed by about 2004, when its liquor licence was acquired for Rolly's Golden Circle in Wyoma Square, later renamed Rolly's Tavern on the Square, which still trades.","now_conf":"medium"},
-  "26": {"slug":"ziggys","name":"Ziggy's","date":"1986-08-25","pages":[30],"address":null,"addr_conf":null,"addr_guess":"Probably Western Ave, from the night's route","status":"unknown","now":null,"note":"No name outside, which will make this one of the hardest to place."},
-  "27": {"slug":"the-arena","name":"The Arena","date":"1986-08-25","pages":[],"address":null,"addr_conf":null,"status":"unknown","now":null,"missing":true},
-  "28": {"slug":"hall-of-fame","name":"The Hall of Fame","former":"recently the Trolley Car","date":"1986-08-25","pages":[31],"address":null,"addr_conf":null,"addr_guess":"Probably Western Ave, from the night's route","status":"unknown","now":null,"note":"Search licence records under its former name, the Trolley Car."},
-  "29": {"slug":"burkes-757-lounge","name":"Burke's 757 Lounge","date":"1986-08-25","pages":[32],"address":"757 Western Ave","addr_conf":"high","addr_why":"The entry opens \"Here's one on Western\", the number is in the name and on the sign, and a 1930 commercial building stands at 757 Western Ave.","status":"closed","now":"The building at 757 Western Ave is currently vacant.","now_conf":"low"},
-  "30": {"slug":"ruthies-place","name":"Ruthies Place","date":"1986-08-25","pages":[33],"address":null,"addr_conf":null,"addr_guess":"A busy downtown street, next to Travel Agents International","status":"unknown","now":null,"note":"Horseshoes were set into the public sidewalk outside. If that pavement was never replaced they may still be there."},
-  "31": {"slug":"tonys","name":"Tony's","former":"The Broken Home","date":"1986-08-25","pages":[34],"address":null,"addr_conf":null,"status":"unknown","now":null,"note":"Distinct from Tony's Cafe, number 14. The nickname may be the key to telling them apart."},
-  "32": {"slug":"hogans-ii","name":"Hogan's II","date":"1986-09-08","pages":[35],"address":"160 Franklin St","addr_conf":"medium","addr_why":"Still trading under the same name at this address.","status":"open","now":"Still open as Hogan's II. Continuity back to 1986 is not documented, but the name and address have held.","now_conf":"medium","note":"Verify by checking whether Bennie's Pizza stood opposite, as the entry says."},
-  "33": {"slug":"595-cafe","name":"The 595 Cafe","date":"1986-09-08","pages":[36],"address":null,"addr_conf":null,"addr_guess":"Number 595 of some street, probably Summer St","status":"closed","now":null,"now_conf":"low","note":"The number pattern is proven by Burke's 757. A 595 Cafe is listed at 597 Summer St, probably an error or the unit next door."},
-  "34": {"slug":"white-eagle","name":"The White Eagle","indexed":"The Bus Stop","date":"1986-09-08","pages":[37],"address":null,"addr_conf":null,"status":"unknown","now":null,"note":"The index calls it The Bus Stop, the entry calls it The White Eagle, and the authors note the confusion. White Eagle is the Polish national emblem."},
-  "35": {"slug":"the-jib","name":"The Jib","date":"1986-09-08","pages":[38],"address":null,"addr_conf":null,"status":"unknown","now":null},
-  "36": {"slug":"mcdonoughs-pub","name":"McDonough's Pub","date":"1986-09-10","pages":[39],"address":null,"addr_conf":null,"status":"unknown","now":null},
-  "37": {"slug":"roadhouse","name":"Roadhouse","date":"1986-09-10","pages":[40,41],"address":null,"addr_conf":null,"addr_guess":"A commercial strip, beside a Color Tile store","status":"unknown","now":null},
-  "38": {"slug":"market-square-pub","name":"Market Square Pub","date":"1986-09-10","pages":[42],"address":null,"addr_conf":null,"addr_guess":"On Market Square","status":"unknown","now":null},
-  "39": {"slug":"four-winds","name":"The Four Winds","date":"1986-09-10","pages":[43],"address":"265 Broadway, on Sluice Pond","addr_conf":"high","addr_why":"The entry says it is located on scenic Sluice Pond, and the pub still trades at 265 Broadway.","status":"open","now":"Still open as the Four Winds Pub and Grill. Established 1939 and described by the Boston Globe in 2023 as the oldest continuously operated pub in Lynn, which means it was serving in 1986.","now_conf":"high"},
-  "40": {"slug":"union-station","name":"Union Station","date":"1986-09-12","pages":[44],"address":null,"addr_conf":null,"addr_guess":"Beside the railroad, near the Lynn depot","status":"unknown","now":null}
+ "1": {
+  "slug": "wortmanns",
+  "name": "Wortmanns",
+  "date": "1986-08-02",
+  "pages": [
+   3
+  ],
+  "address": null,
+  "addr_conf": null,
+  "status": "unknown",
+  "now": null,
+  "note": null
+ },
+ "2": {
+  "slug": "bohills",
+  "name": "Bohill's",
+  "indexed": "Bohill's Irish Pub",
+  "date": "1986-08-02",
+  "pages": [
+   4
+  ],
+  "address": null,
+  "addr_conf": null,
+  "status": "unknown",
+  "now": null,
+  "gold_star": true,
+  "note": null
+ },
+ "3": {
+  "slug": "mister-maxs-pub",
+  "name": "Mr. Max's Pub",
+  "indexed": "Mister Max's Pub",
+  "date": "1986-08-07",
+  "pages": [
+   5
+  ],
+  "address": null,
+  "addr_conf": null,
+  "status": "unknown",
+  "now": null,
+  "note": null
+ },
+ "4": {
+  "slug": "39-buffum-street",
+  "name": "39 Buffum Street",
+  "date": "1986-08-07",
+  "pages": [
+   7
+  ],
+  "address": "39 Buffum St",
+  "addr_conf": "high",
+  "addr_why": "The bar's name is its address.",
+  "status": "closed",
+  "now": "Cesar's Palace occupies 39 Buffum St today. The building dates to 1900 and was renovated in 2010.",
+  "now_conf": "low"
+ },
+ "5": {
+  "slug": "coachman-lounge",
+  "name": "The Coachman Lounge",
+  "date": "1986-08-12",
+  "pages": [
+   8
+  ],
+  "address": null,
+  "addr_conf": null,
+  "addr_guess": "Possibly near 170 Broad St",
+  "status": "closed",
+  "now": null,
+  "now_conf": "medium",
+  "note": "A corporation called Coachman, Inc. was registered in 1988 at 170 to 170A Broad St and dissolved in 1998. The filing postdates this visit, so the link is inferred."
+ },
+ "6": {
+  "slug": "blue-note",
+  "name": "The Blue Note",
+  "date": "1986-08-12",
+  "pages": [
+   9
+  ],
+  "address": null,
+  "addr_conf": null,
+  "addr_guess": "Possibly 111 Sagamore St",
+  "status": "closed",
+  "now": null,
+  "now_conf": "medium"
+ },
+ "7": {
+  "slug": "smugglers-cove",
+  "name": "Smuggler's Cove",
+  "date": "1986-08-12",
+  "pages": [
+   10
+  ],
+  "address": "826 Washington St",
+  "addr_conf": "medium",
+  "addr_why": "Named in a 2018 Daily Item article about the site's redevelopment.",
+  "status": "demolished",
+  "now": "Demolished in 2018. A condominium building with ground floor commercial space now stands on the site, built under the Washington Street Gateway District plan.",
+  "now_conf": "high",
+  "note": "The Daily Item says the pub was established in 1986, the same year as this visit. If both are right, they catalogued a bar that had only just opened."
+ },
+ "8": {
+  "slug": "crystal-grill",
+  "name": "The Crystal Grill",
+  "date": "1986-08-12",
+  "pages": [
+   11
+  ],
+  "address": null,
+  "addr_conf": null,
+  "status": "unknown",
+  "now": null,
+  "note": null
+ },
+ "9": {
+  "slug": "maxs-pub",
+  "name": "Max's Pub",
+  "date": "1986-08-14",
+  "pages": [
+   12
+  ],
+  "address": null,
+  "addr_conf": null,
+  "addr_guess": "Olympic Square area, near the old WFNX studio at 25 Exchange St",
+  "status": "closed",
+  "now": null,
+  "now_conf": "medium",
+  "note": "A personal recollection online says Max's opened in 1984, that its original owners later founded the Halfway Cafe chain, and that it changed hands before closing. Single source."
+ },
+ "10": {
+  "slug": "corcorans",
+  "name": "Corcorans",
+  "date": "1986-08-14",
+  "pages": [
+   13
+  ],
+  "address": null,
+  "addr_conf": null,
+  "status": "unknown",
+  "now": null,
+  "note": null
+ },
+ "11": {
+  "slug": "cronins-cafe",
+  "name": "Cronin's Cafe",
+  "date": "1986-08-14",
+  "pages": [
+   14,
+   15
+  ],
+  "address": null,
+  "addr_conf": null,
+  "status": "unknown",
+  "now": null,
+  "note": null
+ },
+ "12": {
+  "slug": "bull-pen",
+  "name": "Bull Pen Restaurant",
+  "indexed": "The Bull Pen",
+  "date": "1986-08-14",
+  "pages": [
+   16
+  ],
+  "address": null,
+  "addr_conf": null,
+  "status": "unknown",
+  "now": null,
+  "note": "A Bull Pen Sports Bar trades in the area today but dates to about 2010. Name coincidence, not the same business."
+ },
+ "13": {
+  "slug": "side-street",
+  "name": "Side Street",
+  "indexed": "The Side Street",
+  "date": "1986-08-17",
+  "pages": [
+   17
+  ],
+  "address": null,
+  "addr_conf": null,
+  "addr_guess": "Possibly 33 Spring St",
+  "status": "closed",
+  "now": null,
+  "now_conf": "low"
+ },
+ "14": {
+  "slug": "tonys-cafe",
+  "name": "Tony's Cafe",
+  "date": "1986-08-17",
+  "pages": [
+   18
+  ],
+  "address": null,
+  "addr_conf": null,
+  "addr_guess": "On the street below Rocky's Gym",
+  "status": "unknown",
+  "now": null,
+  "note": "Not to be confused with Tony's, number 31."
+ },
+ "15": {
+  "slug": "contis-cafe",
+  "name": "Conti's Cafe",
+  "date": "1986-08-17",
+  "pages": [
+   19
+  ],
+  "address": null,
+  "addr_conf": null,
+  "addr_guess": "The heart of historic Lynn, in an urban renewal area",
+  "status": "unknown",
+  "now": null
+ },
+ "16": {
+  "slug": "mels-stateroom",
+  "name": "Mel's Stateroom",
+  "date": "1986-08-17",
+  "pages": [
+   20
+  ],
+  "address": null,
+  "addr_conf": null,
+  "addr_guess": "A brisk walk from Conti's Cafe",
+  "status": "unknown",
+  "now": null
+ },
+ "17": {
+  "slug": "brandy-barrel",
+  "name": "The Brandy Barrel",
+  "date": "1986-08-19",
+  "pages": [
+   21
+  ],
+  "address": null,
+  "addr_conf": null,
+  "addr_guess": "Possibly 37 Market St",
+  "status": "closed",
+  "now": "A Brandy Barrel Pub and Grille traded at 37 Market St until mid 2025. Whether it occupied that address continuously since 1986 is unverified.",
+  "now_conf": "low"
+ },
+ "18": {
+  "slug": "scotch-mist",
+  "name": "The Scotch Mist",
+  "date": "1986-08-19",
+  "pages": [
+   22
+  ],
+  "address": null,
+  "addr_conf": null,
+  "status": "unknown",
+  "now": null
+ },
+ "19": {
+  "slug": "corinthian-club",
+  "name": "The Corinthian Club",
+  "date": "1986-08-19",
+  "pages": [
+   23
+  ],
+  "address": null,
+  "addr_conf": null,
+  "addr_guess": "Off the beaten path, near the Lithuanian Club and the bus station",
+  "status": "unknown",
+  "now": null
+ },
+ "20": {
+  "slug": "klub-kar",
+  "name": "The Klub Kar",
+  "date": "1986-08-19",
+  "pages": [
+   24
+  ],
+  "address": null,
+  "addr_conf": null,
+  "addr_guess": "Directly beneath the elevated railway",
+  "status": "unknown",
+  "now": null
+ },
+ "21": {
+  "slug": "crowleys",
+  "name": "Crowley's",
+  "date": "1986-08-23",
+  "pages": [
+   25
+  ],
+  "address": null,
+  "addr_conf": null,
+  "status": "unknown",
+  "now": null
+ },
+ "22": {
+  "slug": "shawmut-grille",
+  "name": "The Shawmut Grille",
+  "indexed": "The Shawmut Grill",
+  "date": "1986-08-23",
+  "pages": [
+   26
+  ],
+  "address": null,
+  "addr_conf": null,
+  "status": "unknown",
+  "now": null,
+  "note": "The afterword's line about most of them being frozen, and the Shawmut being petrified, refers to this entry."
+ },
+ "23": {
+  "slug": "players",
+  "name": "Player's",
+  "date": "1986-08-23",
+  "pages": [
+   27
+  ],
+  "address": null,
+  "addr_conf": null,
+  "status": "unknown",
+  "now": null,
+  "note": "A Players Sports Bar at 858 Western Ave dates to about 2008. Name coincidence."
+ },
+ "24": {
+  "slug": "buchanans",
+  "name": "Buchanan's",
+  "date": "1986-08-23",
+  "pages": [
+   28
+  ],
+  "address": "Corner of Eastern Ave and Western Ave",
+  "addr_conf": "high",
+  "addr_why": "Stated in the entry itself.",
+  "status": "possibly open",
+  "now": "Buchanan Cafe at 648 Eastern Ave may be the same bar. A customer review describes it as open over fifty years, but no documentary history was found.",
+  "now_conf": "low"
+ },
+ "25": {
+  "slug": "golden-circle",
+  "name": "The Golden Circle",
+  "date": "1986-08-23",
+  "pages": [
+   29
+  ],
+  "address": "328 Broadway",
+  "addr_conf": "medium",
+  "addr_why": "Golden Circle, Inc. corporate filings run 1942 to 2005 at this address.",
+  "status": "closed",
+  "now": "Closed by about 2004, when its liquor licence was acquired for Rolly's Golden Circle in Wyoma Square, later renamed Rolly's Tavern on the Square, which still trades.",
+  "now_conf": "medium"
+ },
+ "26": {
+  "slug": "ziggys",
+  "name": "Ziggy's",
+  "date": "1986-08-25",
+  "pages": [
+   30
+  ],
+  "address": null,
+  "addr_conf": null,
+  "addr_guess": "Unknown. The 25 August route spans the city, so the night gives no steer",
+  "status": "unknown",
+  "now": null,
+  "note": "No name outside, which will make this one of the hardest to place."
+ },
+ "27": {
+  "slug": "the-arena",
+  "name": "The Arena",
+  "date": "1986-08-25",
+  "pages": [],
+  "address": null,
+  "addr_conf": null,
+  "status": "unknown",
+  "now": null,
+  "missing": true
+ },
+ "28": {
+  "slug": "hall-of-fame",
+  "name": "The Hall of Fame",
+  "former": "recently the Trolley Car",
+  "date": "1986-08-25",
+  "pages": [
+   31
+  ],
+  "address": null,
+  "addr_conf": null,
+  "addr_guess": "64 Market Square",
+  "status": "unknown",
+  "now": null,
+  "note": "Search licence records under its former name, the Trolley Car. 64 Market Square is a reported address, not yet confirmed."
+ },
+ "29": {
+  "slug": "burkes-757-lounge",
+  "name": "Burke's 757 Lounge",
+  "date": "1986-08-25",
+  "pages": [
+   32
+  ],
+  "address": "757 Western Ave",
+  "addr_conf": "high",
+  "addr_why": "The entry opens \"Here's one on Western\", the number is in the name and on the sign, and a 1930 commercial building stands at 757 Western Ave.",
+  "status": "closed",
+  "now": "The building at 757 Western Ave is currently vacant.",
+  "now_conf": "low"
+ },
+ "30": {
+  "slug": "ruthies-place",
+  "name": "Ruthies Place",
+  "date": "1986-08-25",
+  "pages": [
+   33
+  ],
+  "address": null,
+  "addr_conf": null,
+  "addr_guess": "A busy downtown street, next to Travel Agents International, possibly near Market Square",
+  "status": "unknown",
+  "now": null,
+  "note": "Horseshoes were set into the public sidewalk outside. If that pavement was never replaced they may still be there."
+ },
+ "31": {
+  "slug": "tonys",
+  "name": "Tony's",
+  "former": "The Broken Home",
+  "date": "1986-08-25",
+  "pages": [
+   34
+  ],
+  "address": null,
+  "addr_conf": null,
+  "status": "unknown",
+  "now": null,
+  "note": "Distinct from Tony's Cafe, number 14. The nickname may be the key to telling them apart."
+ },
+ "32": {
+  "slug": "hogans-ii",
+  "name": "Hogan's II",
+  "date": "1986-09-08",
+  "pages": [
+   35
+  ],
+  "address": "160 Franklin St",
+  "addr_conf": "high",
+  "addr_why": "Confirmed. The premises still trade as a bar at this address.",
+  "status": "closed",
+  "now": "Operating as a karaoke bar at the same address. Directory listings give the name variously as La Chingada, La Shingada and La Shindaga.",
+  "now_conf": "high",
+  "note": "The entry places it across from Bennie's Pizza, which would date the address back to 1986 if Bennie's can be confirmed there."
+ },
+ "33": {
+  "slug": "595-cafe",
+  "name": "The 595 Cafe",
+  "date": "1986-09-08",
+  "pages": [
+   36
+  ],
+  "address": null,
+  "addr_conf": null,
+  "addr_guess": "Number 595 of some street, probably Summer St",
+  "status": "closed",
+  "now": null,
+  "now_conf": "low",
+  "note": "The number pattern is proven by Burke's 757. A 595 Cafe is listed at 597 Summer St, probably an error or the unit next door."
+ },
+ "34": {
+  "slug": "white-eagle",
+  "name": "The White Eagle",
+  "indexed": "The Bus Stop",
+  "date": "1986-09-08",
+  "pages": [
+   37
+  ],
+  "address": null,
+  "addr_conf": null,
+  "status": "unknown",
+  "now": null,
+  "note": "The index calls it The Bus Stop, the entry calls it The White Eagle, and the authors note the confusion. White Eagle is the Polish national emblem."
+ },
+ "35": {
+  "slug": "the-jib",
+  "name": "The Jib",
+  "date": "1986-09-08",
+  "pages": [
+   38
+  ],
+  "address": null,
+  "addr_conf": null,
+  "status": "unknown",
+  "now": null
+ },
+ "36": {
+  "slug": "mcdonoughs-pub",
+  "name": "McDonough's Pub",
+  "date": "1986-09-10",
+  "pages": [
+   39
+  ],
+  "address": null,
+  "addr_conf": null,
+  "status": "unknown",
+  "now": null
+ },
+ "37": {
+  "slug": "roadhouse",
+  "name": "Roadhouse",
+  "date": "1986-09-10",
+  "pages": [
+   40,
+   41
+  ],
+  "address": null,
+  "addr_conf": null,
+  "addr_guess": "A commercial strip, beside a Color Tile store",
+  "status": "unknown",
+  "now": null
+ },
+ "38": {
+  "slug": "market-square-pub",
+  "name": "Market Square Pub",
+  "date": "1986-09-10",
+  "pages": [
+   42
+  ],
+  "address": null,
+  "addr_conf": null,
+  "addr_guess": "On Market Square",
+  "status": "unknown",
+  "now": null
+ },
+ "39": {
+  "slug": "four-winds",
+  "name": "The Four Winds",
+  "date": "1986-09-10",
+  "pages": [
+   43
+  ],
+  "address": "265 Broadway, on Sluice Pond",
+  "addr_conf": "high",
+  "addr_why": "The entry says it is located on scenic Sluice Pond, and the pub still trades at 265 Broadway.",
+  "status": "open",
+  "now": "Still open as the Four Winds Pub and Grill. Established 1939 and described by the Boston Globe in 2023 as the oldest continuously operated pub in Lynn, which means it was serving in 1986.",
+  "now_conf": "high"
+ },
+ "40": {
+  "slug": "union-station",
+  "name": "Union Station",
+  "date": "1986-09-12",
+  "pages": [
+   44
+  ],
+  "address": null,
+  "addr_conf": null,
+  "addr_guess": "Beside the railroad, near the Lynn depot",
+  "status": "unknown",
+  "now": null
+ }
 }
